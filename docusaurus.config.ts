@@ -81,7 +81,7 @@ const config: Config = {
           items: [
             {
               label: "Color Palette Plugin",
-              href: "com.epicgames.launcher://ue/Fab/product/44d4ba43-10ad-453b-a83f-0203391cf2c9",
+              href: "https://www.fab.com/listings/44d4ba43-10ad-453b-a83f-0203391cf2c9",
             },
           ],
         },
