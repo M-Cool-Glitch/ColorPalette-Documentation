@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcolor_palette_documentation=self.webpackChunkcolor_palette_documentation||[]).push([[647],{7121:(e,t,r)=>{r.r(t),r.d(t,{default:()=>l});r(6540);var a=r(4164),c=r(1003),o=r(7559),s=r(2831),n=r(781),u=r(4848);function l(e){return(0,u.jsx)(c.e3,{className:(0,a.A)(o.G.wrapper.docsPages),children:(0,u.jsx)(n.A,{children:(0,s.v)(e.route.routes)})})}}}]);
